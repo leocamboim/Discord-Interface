@@ -47,7 +47,7 @@ export const Input = styled.input`
     padding: 0 10px 0 57px;
     border-radius: 7px;
 
-    color: chartreuse(--white);
+    color: var(--white);
     background-color: var(--chat-input);
 
     position: relative;
